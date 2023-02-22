@@ -6,6 +6,7 @@
   margin: 50px auto 0 auto;
   background: #1c1c1c;
   border-radius: 39px;
+  overflow: hidden;
 }
 
 .calc__total {
